@@ -34,5 +34,3 @@ I'm an devoted catholic learning to program simple apps with Java.
 
 #
 
-<details>
-
