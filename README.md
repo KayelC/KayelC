@@ -35,7 +35,4 @@ I'm an devoted catholic learning to program simple apps with Java.
 #
 
 <details>
- <summary><h3>👨‍💻 Kayel's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory.
-   I am currently studying computer science at the um of malta, wanting to land a job as a professional programmer.
 
