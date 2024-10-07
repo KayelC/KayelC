@@ -2,7 +2,7 @@
 
 **`Upcoming Programmer (Student)`**
 
-I'm an devoted Christian learning to program simple apps with Java. 
+I'm an devoted Christian learning to program simple apps. 
 
    <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
