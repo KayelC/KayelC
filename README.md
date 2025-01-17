@@ -2,7 +2,7 @@
 
 **`Upcoming Programmer (Student)`**
 
-I'm an devoted Christian learning to program simple apps. 
+A Christian Man With a Passion For Programming. 
 
    <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
