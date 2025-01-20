@@ -4,7 +4,7 @@
 
 A Christian Man With a Passion For Programming. 
 
-Current Project : Gamified Fitness Journal
+Current Project : The System - Gamified Journal from "Solo Leveling"
 
    <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
