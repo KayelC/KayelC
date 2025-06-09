@@ -4,7 +4,7 @@
 
 A Christian Man With a Passion For Programming. 
 
-Current Project : Creating a JRPG Game (Private)
+Current Project : Creating a JRPG Game (Private REPO)
 
    <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
