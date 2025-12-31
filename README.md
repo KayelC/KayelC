@@ -35,11 +35,3 @@ Current Project : JRPG * Creating a Game Engine
 
 #
 
-### 📊 Stats
-
-![Kayel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayelc&show_icons=true&theme=dark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KayelC&theme=dark&border_radius=4.5) -->
-
-#
-
