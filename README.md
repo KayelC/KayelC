@@ -1,6 +1,6 @@
 # ✞ Kayel Calleja
 
-**`Upcoming Programmer (Student)`**
+**`Student Programmer`**
 
 A Christian Man With a Passion For Programming. 
 
