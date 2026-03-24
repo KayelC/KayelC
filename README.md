@@ -4,7 +4,7 @@
 
 A Christian Man With a Passion For Programming. 
 
-Current Project : JRPG * Creating a Game Engine
+Current Project : Convergence - Shin Megami Tensei Framework
 
    <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
