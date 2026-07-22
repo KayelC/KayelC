@@ -4,7 +4,7 @@
 
 A Christian Man With a Passion For Programming. 
 
-Current Project : Convergence - Shin Megami Tensei Framework
+Current Project : Convergence - Videogame Framework based on JRPGs
 
    <p align="left">
    <a href="https://github.com/KayelC?tab=followers">
